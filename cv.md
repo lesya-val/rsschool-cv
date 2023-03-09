@@ -24,7 +24,7 @@ I hope that my desire to acquire new skills and the ability to approach work res
 ### Skills:
 - HTML  
 - CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology)  
-- JavaScript(Basic), C++(Basic), Python(Basic) 
+- JavaScript (Basic), C++ (Basic), Python (Basic) 
 - Git, GitHub  
 - ОС Windows, Linux(Ubuntu)  
 - Figma (for web-development)  
