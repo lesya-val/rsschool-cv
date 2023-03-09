@@ -1,6 +1,6 @@
 # Olesya Valyn
 ### Junior Frontend Developer
-![portfolio](image/portfolio.jpg)
+<img src="image/portfolio.jpg" width="600">
 
 ---
 
@@ -22,16 +22,36 @@ I hope that my desire to acquire new skills and the ability to approach work res
 ---
 
 ### Skills:
-HTML  
-CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology)  
-JavaScript(Basic), C++(Basic), Python(Basic)  
-Git, GitHub  
-ОС Windows, Linux(Ubuntu)  
-Figma (for web-development)  
-VSCode, WebStorm, Pycharm
+- HTML  
+- CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology)  
+- JavaScript(Basic), C++(Basic), Python(Basic) 
+- Git, GitHub  
+- ОС Windows, Linux(Ubuntu)  
+- Figma (for web-development)  
+- VSCode, WebStorm, Pycharm
 
 ---
 
+### Code example:
+Task from Codewars (7kye): [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
+```
+function getCount(str) {
+  let reg = str.match(/[a\e\i\o\u]/g)
+  return reg === null ? 0: reg.length
+}
+```
 
+---
 
+### Education:
+- JavaScript Manual on [learn.javascript.ru](https://learn.javascript.ru/) (in progress)  
+- RS Schools Course [«JavaScript/Front-end. Stage 1»](https://rs.school/js/) (in progress)
+- Stepic Course ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/promo#toc) (completed)  
+<img src="image/stepic_course.jpg" width="600">
 
+---
+
+### Languages:
+- Russian - Native
+- English - Intermediate (according to the online test at [EF SET](https://www.efset.org/quick-check/))  
+<img src="image/english_test.png" width="200">
